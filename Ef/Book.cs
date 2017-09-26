@@ -12,5 +12,7 @@ namespace MvcSample.Ef
         [MaxLength(20)]
         public string Name { get; set; }
         public double Price { get; set; }
+        public DateTime BuyTime { get; set; }
+
     }
 }
