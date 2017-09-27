@@ -85,4 +85,9 @@ D:\VSproject\MvcSample\MvcSample\bin\EntityFramework.dll
 D:\VSproject\MvcSample\MvcSample\bin\EntityFramework.SqlServer.dll
 D:\VSproject\MvcSample\MvcSample\bin\EntityFramework.xml
 D:\VSproject\MvcSample\MvcSample\bin\EntityFramework.SqlServer.xml
+D:\VSproject\MvcSample\MvcSample\obj\Debug\MvcSample.Properties.Resources.resources
+D:\VSproject\MvcSample\MvcSample\obj\Debug\MvcSample.csproj.GenerateResource.Cache
+D:\VSproject\MvcSample\MvcSample\bin\en-us\MvcSample.resources.dll
+D:\VSproject\MvcSample\MvcSample\obj\Debug\MvcSample.Properties.Resources.en-us.resources
+D:\VSproject\MvcSample\MvcSample\obj\Debug\en-us\MvcSample.resources.dll
 D:\VSproject\MvcSample\MvcSample\obj\Debug\MvcSample.csprojResolveAssemblyReference.cache

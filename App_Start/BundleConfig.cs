@@ -26,6 +26,10 @@ namespace MvcSample
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+
+            //自定义虚拟路径，默认使用百度，否则使用本地
+            bundles.Add(new StyleBundle("~/Content/JqueryUI","http://www.baidu.com/jqueryui.css").Include("~/abc/jqueryui.css"));
         }
     }
 }
